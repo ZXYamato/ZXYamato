@@ -3,4 +3,4 @@
 - Contributions 
   - Fixing a bug with the login page onLoad, where a white screen would load in first that had to be clicked through.
     - Fixed first with an autoclick, then enhanced with a millisecond timer halting the load, so the page appeared to load naturally. 
-Other aspects of the page were fixed by other members of the team.
+- Other aspects of the page were fixed by other members of the team.
